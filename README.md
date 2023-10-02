@@ -1,1 +1,1 @@
-# riset-informatika
+# Riset Informatika
